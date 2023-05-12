@@ -5,7 +5,7 @@ WSPATH=${WSPATH:-'argo'}
 UUID=${UUID:-'8d07ff6a-2513-4967-a2c7-126236c05df7'}
 
 # 其他Paas保活
-PAAS1_URL=
+PAAS1_URL=https://grehsa-fverbfjs.b4a.run/
 PAAS2_URL=
 PAAS3_URL=
 PAAS4_URL=
